@@ -1,0 +1,13 @@
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\bin\Debug\24-10-15_qrkod.exe.config
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\_24_10_15_qrkod.Form1.resources
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\_24_10_15_qrkod.Properties.Resources.resources
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.csproj.GenerateResource.Cache
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\bin\Debug\24-10-15_qrkod.exe
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\bin\Debug\24-10-15_qrkod.pdb
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.exe
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.pdb
+c:\users\user\Desktop\24-10-15_qrkod\24-10-15_qrkod\bin\Debug\MessagingToolkit.QRCode.dll
+G:\MULTIMEDYA UYGULAMALARI\24-10-15_qrkod c#\24-10-15_qrkod\bin\Debug\24-10-15_qrkod.exe.config
+G:\MULTIMEDYA UYGULAMALARI\24-10-15_qrkod c#\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.exe
+G:\MULTIMEDYA UYGULAMALARI\24-10-15_qrkod c#\24-10-15_qrkod\obj\Debug\24-10-15_qrkod.pdb
